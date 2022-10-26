@@ -1,2 +1,16 @@
 packages: 
-  yi*/*.cabal
+  yi/*.cabal
+  yi-core/*.cabal
+  yi-dynamic-configuration/*.cabal
+  yi-frontend-vty/*.cabal
+  yi-fuzzy-open/*.cabal
+  yi-intero/*.cabal
+  yi-ireader/*.cabal
+  yi-keymap-cua/*.cabal
+  yi-keymap-emacs/*.cabal
+  yi-keymap-vim/*.cabal
+  yi-language/*.cabal
+  yi-misc-modes/*.cabal
+  yi-mode-haskell/*.cabal
+  yi-mode-javascript/*.cabal
+  yi-snippet/*.cabal
